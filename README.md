@@ -1,4 +1,4 @@
-# Week 8 homework assignment - due 10/31/2016 7:15 p.m.
+# Week 8 homework assignment - due 10/30/2017 7:15 p.m.
 
 Problem: Sort three numbers
 
